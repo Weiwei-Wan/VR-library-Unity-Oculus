@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "592761039577",
+    "firebase_url": "https://fir-test-project-bae00-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-test-project-bae00",
+    "storage_bucket": "fir-test-project-bae00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592761039577:android:6830cc4b6955ae0179ecc8",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Myproject.firebase.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592761039577-42bidhue1oakl3ctp3067k6dr88o0b3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.Myproject.firebase.test",
+            "certificate_hash": "f37d549e62d4f28b7d0736b634d6ec5220c6ce3c"
+          }
+        },
+        {
+          "client_id": "592761039577-2751gsnt9mho9padd56vqbahb8nfooca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4XgX75DlcF0za4z5sAQu-ol4jsXBkEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592761039577-2751gsnt9mho9padd56vqbahb8nfooca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592761039577-dptjotdaicfc3858enlnvg7bpa4d71ro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tcd.vrlibrary.iospack"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592761039577:android:0932c4176afc4f7379ecc8",
+        "android_client_info": {
+          "package_name": "com.tcd.vrlibrary.androidpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592761039577-2751gsnt9mho9padd56vqbahb8nfooca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4XgX75DlcF0za4z5sAQu-ol4jsXBkEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592761039577-2751gsnt9mho9padd56vqbahb8nfooca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592761039577-dptjotdaicfc3858enlnvg7bpa4d71ro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tcd.vrlibrary.iospack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
